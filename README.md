@@ -1,1 +1,1 @@
-Hi,My name is Arthur, and I enjoy programming in Java and listening to music. I'm learning Java at the Federal Institute of Paraná, Cascavel campus, and I'm also taking a high school program integrated with a technical course in computer science. 
+Hi, My name is Arthur, and I enjoy programming in Java and listening to music. I'm learning Java at the Federal Institute of Paraná, Cascavel campus, and I'm also taking a high school program integrated with a technical course in computer science. 
